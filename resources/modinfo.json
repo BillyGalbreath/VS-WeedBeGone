@@ -1,0 +1,11 @@
+{
+  "type": "content",
+  "name": "WeedBeGone",
+  "modid": "weedbegone",
+  "version": "1.0.0",
+  "description": "Prevent weeds from growing on farmland",
+  "authors": [ "BillyGalbreath" ],
+  "dependency": {
+    "game": "1.18.0"
+  }
+}
